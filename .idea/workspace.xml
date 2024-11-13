@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64d4eeae-47c8-4440-bf0a-03db4d8c7299" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex_12112024_Op/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="64d4eeae-47c8-4440-bf0a-03db4d8c7299" name="Changes" comment="12_nov">
+      <change afterPath="$PROJECT_DIR$/src/ex_12112024_Op/Task_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730738101604</updated>
     </task>
+    <task id="LOCAL-00001" summary="12_nov">
+      <option name="closed" value="true" />
+      <created>1731517447382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517447382</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12_nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="12_nov" />
   </component>
 </project>
