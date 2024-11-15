@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64d4eeae-47c8-4440-bf0a-03db4d8c7299" name="Changes" comment="12_nov">
-      <change afterPath="$PROJECT_DIR$/src/ex_12112024_Op/Task_3.py" afterDir="false" />
+    <list default="true" id="64d4eeae-47c8-4440-bf0a-03db4d8c7299" name="Changes" comment="14_nov">
+      <change afterPath="$PROJECT_DIR$/src/ex_14112024_conditions/Task_1_LeapYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14112024_conditions/Task_2_TriangleClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,27 +47,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab016_String.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001.executor": "Run",
+    "Python.Lab0015.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab016_String.executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task_1_LeapYear.executor": "Run",
+    "Python.Task_2_TriangleClassifier.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -95,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12_nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="12_nov" />
+    <MESSAGE value="14_nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="14_nov" />
   </component>
 </project>
