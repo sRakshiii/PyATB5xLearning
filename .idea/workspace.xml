@@ -5,17 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64d4eeae-47c8-4440-bf0a-03db4d8c7299" name="Changes" comment="14_nov">
-      <change afterPath="$PROJECT_DIR$/src/ex_16112024_Loops/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16112024_Loops/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16112024_Loops/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16112024_Loops/Lab023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16112024_Loops/Lab024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16112024_Loops/Lab025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16112024_Loops/Lab026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16112024_Loops/Lab027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16112024_Loops/Task(FizzBuzz).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19112024_Functions/Lab028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19112024_Functions/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19112024_Functions/Lab030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19112024_Functions/Lab031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19112024_Functions/Lab032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_19112024_Functions/Lab033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21112024/Lab035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21112024/Lab036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21112024/Lab037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21112024/Lab038_Decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21112024/Lab039_Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21112024/Lab_40_Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_09112024_Literals/Lab0015.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_09112024_Literals/Lab015.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +81,17 @@
     "Python.Lab025.executor": "Run",
     "Python.Lab026.executor": "Run",
     "Python.Lab027.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Run",
+    "Python.Lab033.executor": "Run",
+    "Python.Lab036.executor": "Run",
+    "Python.Lab037.executor": "Run",
+    "Python.Lab038_Decorator.executor": "Run",
+    "Python.Lab039_Task.executor": "Run",
+    "Python.Lab_40_Task.executor": "Run",
+    "Python.Task(FizzBuzz).executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task_1_LeapYear.executor": "Run",
     "Python.Task_2_TriangleClassifier.executor": "Run",
@@ -86,7 +99,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task(FizzBuzz)">
+  <component name="RunManager">
     <configuration name="Lab025" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -177,10 +190,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab025" />
         <item itemvalue="Python.Task(FizzBuzz)" />
         <item itemvalue="Python.Lab027" />
         <item itemvalue="Python.Lab026" />
-        <item itemvalue="Python.Lab025" />
       </list>
     </recent_temporary>
   </component>
